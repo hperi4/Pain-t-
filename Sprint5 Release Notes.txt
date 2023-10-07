@@ -1,0 +1,23 @@
+Hunter Peris’ Paint Version 1.5 – Oct 6, 2023
+
+Sprint5
+
+New Features:
+-	Auto-Save feater
+-	Auto-Save timer set to 60 seconds
+-	Auto-Save toggle, turns on and off
+-	JavaDoc commenting
+- 	Can save in alternate file
+
+Issues:
+-	Unit test is currently unavailable however there is skeleton code for it
+
+Upcoming release will include:
+-	Rotatable Image
+-	Rotatable sections of canvas
+-	Notifications
+-	Tool tips appear when user hovers over tools, autosave: trigger or on off
+-	Threading
+
+
+

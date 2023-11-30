@@ -1,0 +1,12 @@
+Paint Version 1.7 -November 27, 2023
+By Hunter Peri
+
+New Features:
+Improved JavaDoc Commenting
+UML Diagrams on GitHub
+Improved Code Organization
+
+What is Paint?:
+Paint is a GUI tool in which users are able to edit a canvas or select an image to edit and save their creations to desired a location. This final version of Paint includes many basic editing tools. 
+Git Hub:
+https://github.com/hperi4/Pain-t-/blob/main/PaintFinal.zip
